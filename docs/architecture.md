@@ -39,8 +39,8 @@ graph LR
 
     %% Стилізація елементів
     classDef sensor fill:#ffcc99,stroke:#e68a00,stroke-width:2px;
-    classDef motor fill:#99ccff,stroke:#0066cc,stroke-width:2px;
-    classDef spool fill:#d9d9d9,stroke:#666,stroke-width:2px;
+    classDef motor fill:#99cc00,stroke:#006600,stroke-width:2px;
+    classDef spool fill:#99cc00,stroke:#666,stroke-width:2px;
     
     class S_IN_1,S_IN_2,S_RDY_1,S_RDY_2,S_OUT sensor;
     class M1,M2 motor;
